@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplicando estilos</string>
+    <string name="lbl_informacion">Información Log</string>
+    <string name="lbl_oscuro">Modo oscuro</string>
+    <string name="lbl_estilo">Estilo:</string>
+    <string name="lbl_color">Color:</string>
+    <string name="rb_rojo">Rojo</string>
+    <string name="rb_verde">Verde</string>
+    <string name="rb_azul">Azul</string>
+    <string name="cb_negrita">Negrita</string>
+    <string name="cb_cursiva">Cursiva</string>
+</resources>
